@@ -1,0 +1,35 @@
+
+Nmae		       >>    use *******
+PanSTARRs gmag	       >>	 ps1_g
+PanSTARRs gmag err     >>        ps1_eg
+PanSTARRs rmag	       >>        ps1_r
+PanSTARRs rmag err     >>        ps1_er
+PanSTARRs imag	       >>        ps1_i
+PanSTARRs imag err     >>        ps1_ei
+PanSTARRs zmag	       >>        ps1_z
+PanSTARRs zmag err     >>        ps1_ez
+PanSTARRs ymag	       >>        ps1_y
+PanSTARRs ymag err     >>        ps1_ey      
+
+ALLWISE W1	       >>	 w1
+ALLWISE W1 err         >>        ew1   
+ALLWISE W2             >>        w2   
+ALLWISE W2 err         >>        ew2   
+ALLWISE W3             >>        w3   
+ALLWISE W3 err         >>        ew3 
+ALLWISE W4             >>        w4   
+ALLWISE W4 err         >>        ew4     
+
+2MASS Jmag	       >>        ma_j
+2MASS Jmag err	       >>	 ma_eh
+2MASS Hmag             >>        ma_h
+2MASS Hmag err         >>        ma_eh
+2MASS Ksmag            >>        ma_k
+2MASS Ksmag err        >>        ma_ek
+
+If you need to use auto-query (astro query).
+Please name your coordinates as follows...
+ra	>>	_RAJ2000
+dec	>>	_DEJ2000
+
+
