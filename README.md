@@ -36,7 +36,7 @@ python phot-d.py -h
 ### 4. Example usage
 You can run an example using:
 ```bash
-python phot-d.py auto_query_example.csv
+python phot-d.py auto_query_example.csv -q
 ```
 
 If you encounter any issues or have questions, feel free to open an issue in this repository or contact me at sytang@rice.edu.
